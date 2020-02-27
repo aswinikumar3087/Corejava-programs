@@ -1,0 +1,11 @@
+
+Csquid:S1481"'Remove this unused "i2" local variable.(Ú—äîüÿÿÿÿ
+Rsquid:S1854"6Remove this useless assignment to local variable "i2".(Ú—äîüÿÿÿÿ
+`squid:S3358"DExtract this nested ternary operation into an independent statement.(ÍÈØÀúÿÿÿÿ
+=squid:S1481"'Remove this unused "i1" local variable.(ƒ²ïD
+Lsquid:S1854"6Remove this useless assignment to local variable "i1".(ƒ²ïD
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â—¯õ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«Âà«
+`squid:S3358"DExtract this nested ternary operation into an independent statement.(ÍÈØÀúÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦¨¹

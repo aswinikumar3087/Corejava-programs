@@ -1,0 +1,9 @@
+
+Ssquid:S18544"<Remove this useless assignment to local variable "iterator".(ÚÚ¬
+bsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(İ¦ƒ
+bsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(‰‡Ò‡
+O
+squid:S106/"9Replace this use of System.out or System.err by a logger.(°óœö
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôòæ™8½°ûİĞ-
+Dsquid:S14814"-Remove this unused "iterator" local variable.(ÚÚ¬

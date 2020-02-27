@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/ORMETB Code base/FND Dev/fnd/aggregator/src/main/java/com/bt/metb/aggregator/constants/WMGConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/ORMETB Code base/FND Dev/fnd/aggregator/src/main/java/com/bt/metb/aggregator/delegates/GetItemCodeDetailsAggregator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/ORMETB Code base/FND Dev/fnd/aggregator/src/main/java/com/bt/metb/aggregator/listeners/MetbMessageSubscriber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/ORMETB Code base/FND Dev/fnd/aggregator/src/main/java/com/bt/metb/aggregator/messageprocessor/AggregatorCoreProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/ORMETB Code base/FND Dev/fnd/aggregator/src/main/java/com/bt/metb/aggregator/mqBeanDefinition/AggregatorBeanDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/ORMETB Code base/FND Dev/fnd/aggregator/src/main/java/com/bt/metb/aggregator/responseprocessor/EMPPALProcessorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/primenumber/D.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/DeSerializePerson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/SerializeDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/customserilization/Student.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/customserilization/Studentdeserializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/customserilization/studentSerializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/externalizations/Person2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/externalizations/Person2Serilizer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/serilizationwithmultipleobjects/Demo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/serilizationwithmultipleobjects/Multi2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/serilizationwithmultipleobjects/Multi3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/serializations/serilizationwithmultipleobjects/Multipleobjects.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/stringpackage/StringDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

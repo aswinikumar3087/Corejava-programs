@@ -1,0 +1,10 @@
+
+`squid:S1481"BRemove this unused "serializerWRTinheritanceDemo1" local variable.(Š«Âû8Ë ¢Ì-
+msquid:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(šò¼ı8ÙÀ¢Ì-
+osquid:S1854"QRemove this useless assignment to local variable "serializerWRTinheritanceDemo1".(Š«Âû8Ë ¢Ì-
+U
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ÜÄ™g8µÒ¢Ì-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘Ô¶Œúÿÿÿÿ8£İ‚¢Ì-
+nsquid:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¢¾Úü8ø‘†¢Ì-

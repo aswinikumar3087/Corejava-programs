@@ -1,0 +1,12 @@
+
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(õŸ×Ğüÿÿÿÿ
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8íËşŒÒ-
+isquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(ÇŠïš8íËşŒÒ-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ëÊĞüÿÿÿÿÿ8íËşŒÒ-
+|squid:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8íËşŒÒ-
+\squid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8£şÌ‰Ò-
+Hsquid:S1481"*Remove this unused "list3" local variable.(©Ç£8ÍîüŒÒ-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8±î›„Ò-
+Wsquid:S1854"9Remove this useless assignment to local variable "list3".(©Ç£8ÍîüŒÒ-
